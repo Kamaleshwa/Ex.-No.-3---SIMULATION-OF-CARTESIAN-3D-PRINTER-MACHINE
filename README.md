@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![ex 3 empd](https://github.com/Kamaleshwa/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144980199/8fcb81f1-5bf0-4664-b932-56b27c6dab35)
+![Uploading ex 3 empd.png…]()
+
 
 
 ### Name: KAMALESHWAR KV
